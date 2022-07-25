@@ -34,7 +34,7 @@ https://tensorboard.dev/experiment/osM2p943SviDc8mZckidYQ/
 
 
 ## Authors 🖥
-**Adonai Vera** - *Machine Learning Enginner Subterra* - [AdonaiVera](https://github.com/AdonaiVera)
+**Adonai Vera** - *Machine Learning Enginner [Subterra AI](https://www.subterra.ai/)* - [AdonaiVera](https://github.com/AdonaiVera)
 
 ## Expressions of Gratitude 🎁
 * Tell others about this project 📢
