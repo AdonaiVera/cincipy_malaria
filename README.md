@@ -1,11 +1,11 @@
-# Malaria detection with computer vision algorithms (CINCIPY) 🤓🚀
+# Malaria detection with computer vision algorithms (PYCON LATAM) 🤓🚀
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Cincipy+Community!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-Note: This repository is part of the talk given at the Python group in Cincinnati 📄
+Note: This repository is a proposal for PyCon Latam 2023 📄
 
 ![image](https://user-images.githubusercontent.com/45982251/180677692-b5708a55-0694-4ba4-a3a3-901e6bbb6c5a.png)
 
