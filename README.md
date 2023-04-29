@@ -1,4 +1,4 @@
-# Malaria detection with computer vision algorithms (PYCON LATAM) 🤓🚀
+# Malaria detection with computer vision algorithms (PyCon LATAM) 🤓🚀
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
 
 <p align="center">
