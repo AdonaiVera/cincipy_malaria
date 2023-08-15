@@ -1,4 +1,10 @@
 # Malaria detection with computer vision algorithms (PyCon Panamá) 🤓🚀
+
+**Remember to install Tensorflow 2.8**
+```
+pip install tensorflow==2.8
+```
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
 
 <p align="center">
